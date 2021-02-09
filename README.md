@@ -1,6 +1,6 @@
 # darling_roll
 ## Description
-Bad-Usb script in Arduino for Digispark Rev.(x)
+Bad-Usb script in Arduino for Digispark Rev. x
 
 ## Requirements:
 - Arduino
