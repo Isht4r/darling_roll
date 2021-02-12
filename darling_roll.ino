@@ -1,5 +1,5 @@
-//#include "DigiKeyboard.h"
-#include "DigiKeyboardDe.h"
+#include "DigiKeyboard.h"
+//#include "DigiKeyboardDe.h" //for De Layout
 
 void setup() {
   //DigiMouse.begin();
